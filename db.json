@@ -1,0 +1,46 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Patricio",
+      "dni": 30111000,
+      "clave": 1234,
+      "monto": 1000
+    },
+    {
+      "id": 2,
+      "nombre": "Agustina",
+      "dni": 30111111,
+      "clave": 1234,
+      "monto": 800
+    },
+    {
+      "id": 3,
+      "nombre": "Santiago",
+      "dni": 30111222,
+      "clave": 1234,
+      "monto": 1200
+    },
+    {
+      "id": 4,
+      "nombre": "Juan Cruz",
+      "dni": 30111333,
+      "clave": 1234,
+      "monto": 1500
+    },
+    {
+      "id": 5,
+      "nombre": "Felipe",
+      "dni": 301114444,
+      "clave": 1234,
+      "monto": 2100
+    },
+    {
+      "id": 6,
+      "nombre": "Pedro",
+      "dni": 30111555,
+      "clave": 1234,
+      "monto": 2500
+    }
+  ]
+}
